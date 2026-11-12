@@ -1,2 +1,2 @@
-# business-card
+# Business-card
 This is an assignment of mine
