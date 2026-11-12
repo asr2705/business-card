@@ -1,6 +1,6 @@
 # Ahmad Saad
 
-**Information Designer | Musician**
+**Information Designer** | **Musician**
 
 | Field | Description |
 |---|---|
